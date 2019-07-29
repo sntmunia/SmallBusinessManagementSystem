@@ -1,0 +1,6 @@
+C:\Users\FIROZ KOBIR\Desktop\C# project\Project2\Project2MVC.Models\bin\Debug\Project2MVC.Models.dll
+C:\Users\FIROZ KOBIR\Desktop\C# project\Project2\Project2MVC.Models\bin\Debug\Project2MVC.Models.pdb
+C:\Users\FIROZ KOBIR\Desktop\C# project\Project2\Project2MVC.Models\obj\Debug\Project2MVC.Models.csprojAssemblyReference.cache
+C:\Users\FIROZ KOBIR\Desktop\C# project\Project2\Project2MVC.Models\obj\Debug\Project2MVC.Models.csproj.CoreCompileInputs.cache
+C:\Users\FIROZ KOBIR\Desktop\C# project\Project2\Project2MVC.Models\obj\Debug\Project2MVC.Models.dll
+C:\Users\FIROZ KOBIR\Desktop\C# project\Project2\Project2MVC.Models\obj\Debug\Project2MVC.Models.pdb

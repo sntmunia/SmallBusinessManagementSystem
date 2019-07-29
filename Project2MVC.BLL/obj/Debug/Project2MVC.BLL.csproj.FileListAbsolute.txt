@@ -1,0 +1,17 @@
+C:\Users\FIROZ KOBIR\Desktop\C# project\Project2\Project2MVC.BLL\bin\Debug\Project2MVC.BLL.dll
+C:\Users\FIROZ KOBIR\Desktop\C# project\Project2\Project2MVC.BLL\bin\Debug\Project2MVC.BLL.pdb
+C:\Users\FIROZ KOBIR\Desktop\C# project\Project2\Project2MVC.BLL\bin\Debug\Project2MVC.Models.dll
+C:\Users\FIROZ KOBIR\Desktop\C# project\Project2\Project2MVC.BLL\bin\Debug\Project2MVC.Repository.dll
+C:\Users\FIROZ KOBIR\Desktop\C# project\Project2\Project2MVC.BLL\bin\Debug\Project2MVC.DatabaseContext.dll
+C:\Users\FIROZ KOBIR\Desktop\C# project\Project2\Project2MVC.BLL\bin\Debug\EntityFramework.dll
+C:\Users\FIROZ KOBIR\Desktop\C# project\Project2\Project2MVC.BLL\bin\Debug\Project2MVC.Models.pdb
+C:\Users\FIROZ KOBIR\Desktop\C# project\Project2\Project2MVC.BLL\bin\Debug\Project2MVC.Repository.pdb
+C:\Users\FIROZ KOBIR\Desktop\C# project\Project2\Project2MVC.BLL\bin\Debug\Project2MVC.Repository.dll.config
+C:\Users\FIROZ KOBIR\Desktop\C# project\Project2\Project2MVC.BLL\bin\Debug\Project2MVC.DatabaseContext.pdb
+C:\Users\FIROZ KOBIR\Desktop\C# project\Project2\Project2MVC.BLL\bin\Debug\Project2MVC.DatabaseContext.dll.config
+C:\Users\FIROZ KOBIR\Desktop\C# project\Project2\Project2MVC.BLL\bin\Debug\EntityFramework.xml
+C:\Users\FIROZ KOBIR\Desktop\C# project\Project2\Project2MVC.BLL\obj\Debug\Project2MVC.BLL.csprojAssemblyReference.cache
+C:\Users\FIROZ KOBIR\Desktop\C# project\Project2\Project2MVC.BLL\obj\Debug\Project2MVC.BLL.csproj.CoreCompileInputs.cache
+C:\Users\FIROZ KOBIR\Desktop\C# project\Project2\Project2MVC.BLL\obj\Debug\Project2MVC.BLL.csproj.CopyComplete
+C:\Users\FIROZ KOBIR\Desktop\C# project\Project2\Project2MVC.BLL\obj\Debug\Project2MVC.BLL.dll
+C:\Users\FIROZ KOBIR\Desktop\C# project\Project2\Project2MVC.BLL\obj\Debug\Project2MVC.BLL.pdb

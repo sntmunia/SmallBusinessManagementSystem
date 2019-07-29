@@ -1,0 +1,17 @@
+C:\Users\FIROZ KOBIR\Desktop\C# project\Project2\Project2MVC.DatabaseContext\bin\Debug\Project2MVC.DatabaseContext.dll.config
+C:\Users\FIROZ KOBIR\Desktop\C# project\Project2\Project2MVC.DatabaseContext\bin\Debug\Project2MVC.DatabaseContext.dll
+C:\Users\FIROZ KOBIR\Desktop\C# project\Project2\Project2MVC.DatabaseContext\bin\Debug\Project2MVC.DatabaseContext.pdb
+C:\Users\FIROZ KOBIR\Desktop\C# project\Project2\Project2MVC.DatabaseContext\bin\Debug\EntityFramework.dll
+C:\Users\FIROZ KOBIR\Desktop\C# project\Project2\Project2MVC.DatabaseContext\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\FIROZ KOBIR\Desktop\C# project\Project2\Project2MVC.DatabaseContext\bin\Debug\Project2MVC.Models.dll
+C:\Users\FIROZ KOBIR\Desktop\C# project\Project2\Project2MVC.DatabaseContext\bin\Debug\Project2MVC.Models.pdb
+C:\Users\FIROZ KOBIR\Desktop\C# project\Project2\Project2MVC.DatabaseContext\bin\Debug\EntityFramework.xml
+C:\Users\FIROZ KOBIR\Desktop\C# project\Project2\Project2MVC.DatabaseContext\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\FIROZ KOBIR\Desktop\C# project\Project2\Project2MVC.DatabaseContext\obj\Debug\Project2MVC.DatabaseContext.csprojAssemblyReference.cache
+C:\Users\FIROZ KOBIR\Desktop\C# project\Project2\Project2MVC.DatabaseContext\obj\Debug\Project2MVC.DatabaseContext.csproj.CoreCompileInputs.cache
+C:\Users\FIROZ KOBIR\Desktop\C# project\Project2\Project2MVC.DatabaseContext\obj\Debug\Project2MVC.DatabaseContext.csproj.CopyComplete
+C:\Users\FIROZ KOBIR\Desktop\C# project\Project2\Project2MVC.DatabaseContext\obj\Debug\Project2MVC.DatabaseContext.dll
+C:\Users\FIROZ KOBIR\Desktop\C# project\Project2\Project2MVC.DatabaseContext\obj\Debug\Project2MVC.DatabaseContext.pdb
+C:\Users\FIROZ KOBIR\Desktop\C# project\Project2\Project2MVC.DatabaseContext\obj\Debug\Project2MVC.DatabaseContext.Migrations.Initilaized.resources
+C:\Users\FIROZ KOBIR\Desktop\C# project\Project2\Project2MVC.DatabaseContext\obj\Debug\Project2MVC.DatabaseContext.csproj.GenerateResource.cache
+C:\Users\FIROZ KOBIR\Desktop\C# project\Project2\Project2MVC.DatabaseContext\obj\Debug\Project2MVC.DatabaseContext.Migrations.Product_Table_Change.resources
