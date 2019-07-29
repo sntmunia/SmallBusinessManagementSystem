@@ -1,0 +1,54 @@
+﻿@model Project2MVC.Models.Model.Customer
+
+@{
+    Layout = null;
+}
+@if (ViewBag.SuccessMsg != null)
+{
+    <h3 style="font-family:'Times New Roman', Times, serif; color:darkgreen">@ViewBag.SuccessMsg</h3>
+}
+@if (ViewBag.FailMsg != null)
+{
+    <h3 style="font-family:'Times New Roman', Times, serif; color:brown">@ViewBag.FailMsg</h3>
+}
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Edit</title>
+</head>
+<body>
+<div>
+    <form method="post">
+        <input type="hidden" name="Code" value="@Model.Code">
+        <table>
+            <tr>
+                <td>Name</td>
+                <td><input type="text" name="Name" value="@Model.Name"></td>
+            </tr>
+            <tr>
+                <td>Address</td>
+                <td><input type="text" name="Address" value="@Model.Address"></td>
+            </tr>
+            <tr>
+                <td>Email</td>
+                <td><input type="text" name="Email" value="@Model.Email"></td>
+            </tr>
+            <tr>
+                <td>Contact</td>
+                <td><input type="text" name="Contact" value="@Model.Contact"></td>
+            </tr>
+            <tr>
+                <td>Loyalty point</td>
+                <td><input type="text" name="LoyaltyPoint" value="@Model.LoyaltyPoint"></td>
+            </tr>
+            <tr>
+                <td>Action</td>
+                <td><input type="submit" value="Update"></td>
+            </tr>
+        </table>
+    </form>
+</div>
+</body>
+</html>

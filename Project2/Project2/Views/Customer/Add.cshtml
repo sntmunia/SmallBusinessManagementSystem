@@ -1,0 +1,57 @@
+﻿
+@{
+    Layout = null;
+}
+
+@if (ViewBag.SuccessMsg != null)
+{
+    <h3 style="font-family:'Times New Roman', Times, serif; color:darkgreen">@ViewBag.SuccessMsg</h3>
+}
+@if (ViewBag.FailMsg != null)
+{
+    <h3 style="font-family:'Times New Roman', Times, serif; color:brown">@ViewBag.FailMsg</h3>
+}
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Add</title>
+</head>
+<body>
+<div>
+    <form method="post">
+        <table>
+            <tr>
+                <td>Code</td>
+                <td><input type="text" name="Code"></td>
+            </tr>
+            <tr>
+                <td>Name</td>
+                <td><input type="text" name="Name"></td>
+            </tr>
+            <tr>
+                <td>Address</td>
+                <td><input type="text" name="Address"></td>
+            </tr>
+            <tr>
+                <td>Email</td>
+                <td><input type="text" name="Email"></td>
+            </tr>
+            <tr>
+                <td>Contact</td>
+                <td><input type="text" name="Contact"></td>
+            </tr>
+            <tr>
+                <td>Loyalty Point</td>
+                <td><input type="text" name="LoyaltyPoint"></td>
+            </tr>
+            <tr>
+                <td>Action</td>
+                <td><button>Save</button></td>
+            </tr>
+        </table>
+    </form>
+</div>
+</body>
+</html>
