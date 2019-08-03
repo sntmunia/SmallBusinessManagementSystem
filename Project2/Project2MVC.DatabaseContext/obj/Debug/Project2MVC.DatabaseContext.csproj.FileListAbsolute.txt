@@ -31,3 +31,19 @@ D:\Github\SmallBusinessManagementSystem\Project2\Project2MVC.DatabaseContext\obj
 D:\Github\SmallBusinessManagementSystem\Project2\Project2MVC.DatabaseContext\obj\Debug\Project2MVC.DatabaseContext.pdb
 D:\Github\SmallBusinessManagementSystem\Project2\Project2MVC.DatabaseContext\obj\Debug\Project2MVC.DatabaseContext.Migrations.initialized.resources
 D:\Github\SmallBusinessManagementSystem\Project2\Project2MVC.DatabaseContext\obj\Debug\Project2MVC.DatabaseContext.csproj.GenerateResource.cache
+D:\Dotnet Practice\Project2\Project2MVC.DatabaseContext\bin\Debug\Project2MVC.DatabaseContext.dll.config
+D:\Dotnet Practice\Project2\Project2MVC.DatabaseContext\bin\Debug\Project2MVC.DatabaseContext.dll
+D:\Dotnet Practice\Project2\Project2MVC.DatabaseContext\bin\Debug\Project2MVC.DatabaseContext.pdb
+D:\Dotnet Practice\Project2\Project2MVC.DatabaseContext\bin\Debug\EntityFramework.dll
+D:\Dotnet Practice\Project2\Project2MVC.DatabaseContext\bin\Debug\EntityFramework.SqlServer.dll
+D:\Dotnet Practice\Project2\Project2MVC.DatabaseContext\bin\Debug\Project2MVC.Models.dll
+D:\Dotnet Practice\Project2\Project2MVC.DatabaseContext\bin\Debug\Project2MVC.Models.pdb
+D:\Dotnet Practice\Project2\Project2MVC.DatabaseContext\bin\Debug\EntityFramework.xml
+D:\Dotnet Practice\Project2\Project2MVC.DatabaseContext\bin\Debug\EntityFramework.SqlServer.xml
+D:\Dotnet Practice\Project2\Project2MVC.DatabaseContext\obj\Debug\Project2MVC.DatabaseContext.csprojAssemblyReference.cache
+D:\Dotnet Practice\Project2\Project2MVC.DatabaseContext\obj\Debug\Project2MVC.DatabaseContext.Migrations.initialized.resources
+D:\Dotnet Practice\Project2\Project2MVC.DatabaseContext\obj\Debug\Project2MVC.DatabaseContext.csproj.GenerateResource.cache
+D:\Dotnet Practice\Project2\Project2MVC.DatabaseContext\obj\Debug\Project2MVC.DatabaseContext.csproj.CoreCompileInputs.cache
+D:\Dotnet Practice\Project2\Project2MVC.DatabaseContext\obj\Debug\Project2MVC.DatabaseContext.csproj.CopyComplete
+D:\Dotnet Practice\Project2\Project2MVC.DatabaseContext\obj\Debug\Project2MVC.DatabaseContext.dll
+D:\Dotnet Practice\Project2\Project2MVC.DatabaseContext\obj\Debug\Project2MVC.DatabaseContext.pdb

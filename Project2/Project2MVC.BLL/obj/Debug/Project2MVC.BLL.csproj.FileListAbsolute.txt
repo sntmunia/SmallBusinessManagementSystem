@@ -32,3 +32,20 @@ D:\Github\SmallBusinessManagementSystem\Project2\Project2MVC.BLL\obj\Debug\Proje
 D:\Github\SmallBusinessManagementSystem\Project2\Project2MVC.BLL\obj\Debug\Project2MVC.BLL.csproj.CopyComplete
 D:\Github\SmallBusinessManagementSystem\Project2\Project2MVC.BLL\obj\Debug\Project2MVC.BLL.dll
 D:\Github\SmallBusinessManagementSystem\Project2\Project2MVC.BLL\obj\Debug\Project2MVC.BLL.pdb
+D:\Dotnet Practice\Project2\Project2MVC.BLL\bin\Debug\Project2MVC.BLL.dll
+D:\Dotnet Practice\Project2\Project2MVC.BLL\bin\Debug\Project2MVC.BLL.pdb
+D:\Dotnet Practice\Project2\Project2MVC.BLL\bin\Debug\Project2MVC.Models.dll
+D:\Dotnet Practice\Project2\Project2MVC.BLL\bin\Debug\Project2MVC.Repository.dll
+D:\Dotnet Practice\Project2\Project2MVC.BLL\bin\Debug\Project2MVC.DatabaseContext.dll
+D:\Dotnet Practice\Project2\Project2MVC.BLL\bin\Debug\EntityFramework.dll
+D:\Dotnet Practice\Project2\Project2MVC.BLL\bin\Debug\Project2MVC.Models.pdb
+D:\Dotnet Practice\Project2\Project2MVC.BLL\bin\Debug\Project2MVC.Repository.pdb
+D:\Dotnet Practice\Project2\Project2MVC.BLL\bin\Debug\Project2MVC.Repository.dll.config
+D:\Dotnet Practice\Project2\Project2MVC.BLL\bin\Debug\Project2MVC.DatabaseContext.pdb
+D:\Dotnet Practice\Project2\Project2MVC.BLL\bin\Debug\Project2MVC.DatabaseContext.dll.config
+D:\Dotnet Practice\Project2\Project2MVC.BLL\bin\Debug\EntityFramework.xml
+D:\Dotnet Practice\Project2\Project2MVC.BLL\obj\Debug\Project2MVC.BLL.csprojAssemblyReference.cache
+D:\Dotnet Practice\Project2\Project2MVC.BLL\obj\Debug\Project2MVC.BLL.csproj.CoreCompileInputs.cache
+D:\Dotnet Practice\Project2\Project2MVC.BLL\obj\Debug\Project2MVC.BLL.csproj.CopyComplete
+D:\Dotnet Practice\Project2\Project2MVC.BLL\obj\Debug\Project2MVC.BLL.dll
+D:\Dotnet Practice\Project2\Project2MVC.BLL\obj\Debug\Project2MVC.BLL.pdb

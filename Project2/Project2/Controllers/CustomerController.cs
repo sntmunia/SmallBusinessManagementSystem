@@ -66,7 +66,7 @@ namespace Project2.Controllers
                 }
                 else
                 {
-                    ViewBag.FailMsg = "No customer exist with this code";
+                    ViewBag.FailMsg = "No customer found against this code";
                 }
             }
             else
@@ -77,16 +77,48 @@ namespace Project2.Controllers
             return View(customer);
         }
 
-        public string Delete(string code)
+        public ActionResult Delete(string code)
         {
             _customer.Code = code;
-            if(_customerManager.Delete(_customer))
-                return "Deleted";
-            else
-            {
+            var exist = _customerManager.GetByCode(_customer);
+            if (exist != null)
+                //return "No customer found against this code";
 
-                return "No customer with this code";
-            }
+            //else
+            //{
+                //_customer.Code = code;
+                if (_customerManager.Delete(_customer))
+                    _customer.customers = _customerManager.GetAll();
+            //else
+            //{
+
+            //    return "Failed to delete";
+            //}
+            //}
+
+            return View(_customer);
+    
         }
+
+        [HttpGet]
+        public ActionResult Search()
+        {
+            return View(_customer);
+        }
+
+        [HttpPost]
+        public ActionResult Search(Customer customer)
+        {
+            _customer.Code = customer.Code;
+            var acustomer = _customerManager.GetByCode(_customer);
+            return View(acustomer);
+        }
+
+        public ActionResult Show()
+        {
+            _customer.customers = _customerManager.GetAll();
+            return View(_customer);
+        }
+ 
     }
 }

@@ -1,0 +1,68 @@
+﻿@model Project2MVC.Models.Model.Customer
+@{
+    Layout = "~/Views/Shared/_MyTheme.cshtml";
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Show</title>
+    <style>
+        table {
+            font-family: arial, sans-serif;
+            border-collapse: collapse;
+            margin:50px;
+            width: 50%;
+        }
+
+        td, th {
+            border: 1px solid #dddddd;
+            text-align: left;
+            padding: 8px;
+        }
+
+        tr:nth-child(even) {
+            background-color: #dddddd;
+        }
+    </style>
+</head>
+<body>
+<div>
+    <table>
+        <thead>
+        <tr>
+            <th>SL</th>
+            <th>Code</th>
+            <th>Name</th>
+            <th>Address</th>
+            <th>Email</th>
+            <th>Contact</th>
+            <th>Loyalty Point</th>
+            <th colspan="2">Action</th>
+
+        </tr>
+        </thead>
+        <tbody>
+        @{int sl = 1;}                
+        @foreach (var customer in Model.customers)
+        {
+            <tr>
+                <td>@(sl++)</td>
+                <td>@customer.Code</td>
+                <td>@customer.Name</td>
+                <th>@customer.Address</th>
+                <td>@customer.Email</td>
+                <td>@customer.Contact</td>
+                <td>@customer.LoyaltyPoint</td>
+                <td>@Html.ActionLink("Edit", "Edit", "Customer", new { Code = customer.Code }, null)</td>
+                <td>@Html.ActionLink("Delete", "Delete", "Customer", new { Code = customer.Code }, null)</td>
+            </tr>
+        }
+
+        </tbody>
+    </table>
+</div>
+</body>
+</html>

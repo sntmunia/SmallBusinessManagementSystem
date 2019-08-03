@@ -1,0 +1,84 @@
+﻿@model Project2MVC.Models.Model.Customer
+@{
+    Layout = "~/Views/Shared/_MyTheme.cshtml";
+   
+}
+
+@if (Model == null)
+{
+    <h3>No customer found</h3>
+}
+
+else
+{
+    <html>
+    <head>
+        <meta name="viewport" content="width=device-width" />
+        <title>Show</title>
+        <style>
+            table {
+                font-family: arial, sans-serif;
+                border-collapse: collapse;
+                margin: 50px;
+                width: 50%;
+            }
+
+            td, th {
+                border: 1px solid #dddddd;
+                text-align: left;
+                padding: 8px;
+            }
+
+            tr:nth-child(even) {
+                background-color: #dddddd;
+            }
+        </style>
+    </head>
+    <body>
+    <div>
+        <form method="post">
+            <table>
+                <tr>
+                    <td>Code</td>
+                    <td>
+                        <input type="text" name="Code" value="@Model.Code" />
+                    </td>
+                    <td><input type="submit" value="Search" /></td>
+                    
+                </tr>
+            </table>
+        </form>
+        <table>
+            <thead>
+            <tr>
+                <th>Code</th>
+                <th>Name</th>
+                <th>Address</th>
+                <th>Email</th>
+                <th>Contact</th>
+                <th>Loyalty Point</th>
+                <th colspan="2">Action</th>
+
+            </tr>
+            </thead>
+            <tbody>
+               
+                <tr>
+                    <td>@Model.Code</td>
+                    <td>@Model.Name</td>
+                    <th>@Model.Address</th>
+                    <td>@Model.Email</td>
+                    <td>@Model.Contact</td>
+                    <td>@Model.LoyaltyPoint</td>
+                    <td>@Html.ActionLink("Edit", "Edit", "Customer", new { Code = Model.Code }, null)</td>
+                    <td>@Html.ActionLink("Delete", "Delete", "Customer", new { Code = Model.Code }, null)</td>
+                </tr>
+                
+
+            </tbody>
+        </table>
+    </div>
+    </body>
+    </html>
+}
+

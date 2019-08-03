@@ -10,3 +10,9 @@ D:\Github\SmallBusinessManagementSystem\Project2\Project2MVC.Models\obj\Debug\Pr
 D:\Github\SmallBusinessManagementSystem\Project2\Project2MVC.Models\obj\Debug\Project2MVC.Models.csproj.CoreCompileInputs.cache
 D:\Github\SmallBusinessManagementSystem\Project2\Project2MVC.Models\obj\Debug\Project2MVC.Models.dll
 D:\Github\SmallBusinessManagementSystem\Project2\Project2MVC.Models\obj\Debug\Project2MVC.Models.pdb
+D:\Dotnet Practice\Project2\Project2MVC.Models\bin\Debug\Project2MVC.Models.dll
+D:\Dotnet Practice\Project2\Project2MVC.Models\bin\Debug\Project2MVC.Models.pdb
+D:\Dotnet Practice\Project2\Project2MVC.Models\obj\Debug\Project2MVC.Models.csprojAssemblyReference.cache
+D:\Dotnet Practice\Project2\Project2MVC.Models\obj\Debug\Project2MVC.Models.csproj.CoreCompileInputs.cache
+D:\Dotnet Practice\Project2\Project2MVC.Models\obj\Debug\Project2MVC.Models.dll
+D:\Dotnet Practice\Project2\Project2MVC.Models\obj\Debug\Project2MVC.Models.pdb

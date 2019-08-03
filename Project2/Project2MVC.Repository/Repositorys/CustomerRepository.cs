@@ -65,10 +65,10 @@ namespace Project2MVC.Repository.Repositorys
             }
             return false;
         }
-        //public List<Customer> GetAll()
-        //{
-        //    return db.Customers.ToList();
-        //}
+        public List<Customer> GetAll()
+        {
+            return db.Customers.ToList();
+        }
         public Customer GetByCode(Customer customer)
         {
             Customer aCustomer = db.Customers.FirstOrDefault(c => c.Code == customer.Code);

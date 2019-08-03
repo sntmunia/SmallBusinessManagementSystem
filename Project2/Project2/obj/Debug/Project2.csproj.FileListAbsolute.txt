@@ -164,3 +164,169 @@ D:\Github\SmallBusinessManagementSystem\Project2\Project2\obj\Debug\Project2.csp
 D:\Github\SmallBusinessManagementSystem\Project2\Project2\obj\Debug\Project2.csproj.CopyComplete
 D:\Github\SmallBusinessManagementSystem\Project2\Project2\obj\Debug\Project2.dll
 D:\Github\SmallBusinessManagementSystem\Project2\Project2\obj\Debug\Project2.pdb
+E:\sazzat\Project2\Project2\bin\Project2.dll.config
+E:\sazzat\Project2\Project2\bin\Project2.dll
+E:\sazzat\Project2\Project2\bin\Project2.pdb
+E:\sazzat\Project2\Project2\bin\roslyn\csc.exe
+E:\sazzat\Project2\Project2\bin\roslyn\csc.exe.config
+E:\sazzat\Project2\Project2\bin\roslyn\csc.rsp
+E:\sazzat\Project2\Project2\bin\roslyn\csi.exe
+E:\sazzat\Project2\Project2\bin\roslyn\csi.exe.config
+E:\sazzat\Project2\Project2\bin\roslyn\csi.rsp
+E:\sazzat\Project2\Project2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\sazzat\Project2\Project2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\sazzat\Project2\Project2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\sazzat\Project2\Project2\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\sazzat\Project2\Project2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\sazzat\Project2\Project2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\sazzat\Project2\Project2\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\sazzat\Project2\Project2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\sazzat\Project2\Project2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\sazzat\Project2\Project2\bin\roslyn\Microsoft.Managed.Core.targets
+E:\sazzat\Project2\Project2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\sazzat\Project2\Project2\bin\roslyn\System.AppContext.dll
+E:\sazzat\Project2\Project2\bin\roslyn\System.Collections.Immutable.dll
+E:\sazzat\Project2\Project2\bin\roslyn\System.Console.dll
+E:\sazzat\Project2\Project2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\sazzat\Project2\Project2\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\sazzat\Project2\Project2\bin\roslyn\System.IO.Compression.dll
+E:\sazzat\Project2\Project2\bin\roslyn\System.IO.FileSystem.dll
+E:\sazzat\Project2\Project2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\sazzat\Project2\Project2\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\sazzat\Project2\Project2\bin\roslyn\System.IO.Pipes.dll
+E:\sazzat\Project2\Project2\bin\roslyn\System.Reflection.Metadata.dll
+E:\sazzat\Project2\Project2\bin\roslyn\System.Security.AccessControl.dll
+E:\sazzat\Project2\Project2\bin\roslyn\System.Security.Claims.dll
+E:\sazzat\Project2\Project2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\sazzat\Project2\Project2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\sazzat\Project2\Project2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\sazzat\Project2\Project2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\sazzat\Project2\Project2\bin\roslyn\System.Security.Principal.Windows.dll
+E:\sazzat\Project2\Project2\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\sazzat\Project2\Project2\bin\roslyn\System.ValueTuple.dll
+E:\sazzat\Project2\Project2\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\sazzat\Project2\Project2\bin\roslyn\System.Xml.XmlDocument.dll
+E:\sazzat\Project2\Project2\bin\roslyn\System.Xml.XPath.dll
+E:\sazzat\Project2\Project2\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\sazzat\Project2\Project2\bin\roslyn\vbc.exe
+E:\sazzat\Project2\Project2\bin\roslyn\vbc.exe.config
+E:\sazzat\Project2\Project2\bin\roslyn\vbc.rsp
+E:\sazzat\Project2\Project2\bin\roslyn\VBCSCompiler.exe
+E:\sazzat\Project2\Project2\bin\roslyn\VBCSCompiler.exe.config
+E:\sazzat\Project2\Project2\bin\EntityFramework.dll
+E:\sazzat\Project2\Project2\bin\EntityFramework.SqlServer.dll
+E:\sazzat\Project2\Project2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\sazzat\Project2\Project2\bin\Microsoft.Web.Infrastructure.dll
+E:\sazzat\Project2\Project2\bin\Project2MVC.BLL.dll
+E:\sazzat\Project2\Project2\bin\Project2MVC.DatabaseContext.dll
+E:\sazzat\Project2\Project2\bin\Project2MVC.Models.dll
+E:\sazzat\Project2\Project2\bin\System.Web.Helpers.dll
+E:\sazzat\Project2\Project2\bin\System.Web.Mvc.dll
+E:\sazzat\Project2\Project2\bin\System.Web.Razor.dll
+E:\sazzat\Project2\Project2\bin\System.Web.Webpages.Deployment.dll
+E:\sazzat\Project2\Project2\bin\System.Web.Webpages.dll
+E:\sazzat\Project2\Project2\bin\System.Web.Webpages.Razor.dll
+E:\sazzat\Project2\Project2\bin\Project2MVC.Repository.dll
+E:\sazzat\Project2\Project2\bin\Project2MVC.BLL.pdb
+E:\sazzat\Project2\Project2\bin\Project2MVC.DatabaseContext.pdb
+E:\sazzat\Project2\Project2\bin\Project2MVC.DatabaseContext.dll.config
+E:\sazzat\Project2\Project2\bin\Project2MVC.Models.pdb
+E:\sazzat\Project2\Project2\bin\EntityFramework.xml
+E:\sazzat\Project2\Project2\bin\EntityFramework.SqlServer.xml
+E:\sazzat\Project2\Project2\bin\System.Web.Razor.xml
+E:\sazzat\Project2\Project2\bin\System.Web.Webpages.xml
+E:\sazzat\Project2\Project2\bin\System.Web.Webpages.Deployment.xml
+E:\sazzat\Project2\Project2\bin\System.Web.Webpages.Razor.xml
+E:\sazzat\Project2\Project2\bin\System.Web.Helpers.xml
+E:\sazzat\Project2\Project2\bin\System.Web.Mvc.xml
+E:\sazzat\Project2\Project2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\sazzat\Project2\Project2\bin\Project2MVC.Repository.pdb
+E:\sazzat\Project2\Project2\bin\Project2MVC.Repository.dll.config
+E:\sazzat\Project2\Project2\obj\Debug\Project2.csprojAssemblyReference.cache
+E:\sazzat\Project2\Project2\obj\Debug\Project2.csproj.CoreCompileInputs.cache
+E:\sazzat\Project2\Project2\obj\Debug\Project2.csproj.CopyComplete
+E:\sazzat\Project2\Project2\obj\Debug\Project2.dll
+E:\sazzat\Project2\Project2\obj\Debug\Project2.pdb
+D:\Dotnet Practice\Project2\Project2\bin\Project2.dll.config
+D:\Dotnet Practice\Project2\Project2\bin\Project2.dll
+D:\Dotnet Practice\Project2\Project2\bin\Project2.pdb
+D:\Dotnet Practice\Project2\Project2\bin\roslyn\csc.exe
+D:\Dotnet Practice\Project2\Project2\bin\roslyn\csc.exe.config
+D:\Dotnet Practice\Project2\Project2\bin\roslyn\csc.rsp
+D:\Dotnet Practice\Project2\Project2\bin\roslyn\csi.exe
+D:\Dotnet Practice\Project2\Project2\bin\roslyn\csi.exe.config
+D:\Dotnet Practice\Project2\Project2\bin\roslyn\csi.rsp
+D:\Dotnet Practice\Project2\Project2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Dotnet Practice\Project2\Project2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Dotnet Practice\Project2\Project2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Dotnet Practice\Project2\Project2\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Dotnet Practice\Project2\Project2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Dotnet Practice\Project2\Project2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Dotnet Practice\Project2\Project2\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Dotnet Practice\Project2\Project2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Dotnet Practice\Project2\Project2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Dotnet Practice\Project2\Project2\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Dotnet Practice\Project2\Project2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Dotnet Practice\Project2\Project2\bin\roslyn\System.AppContext.dll
+D:\Dotnet Practice\Project2\Project2\bin\roslyn\System.Collections.Immutable.dll
+D:\Dotnet Practice\Project2\Project2\bin\roslyn\System.Console.dll
+D:\Dotnet Practice\Project2\Project2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Dotnet Practice\Project2\Project2\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Dotnet Practice\Project2\Project2\bin\roslyn\System.IO.Compression.dll
+D:\Dotnet Practice\Project2\Project2\bin\roslyn\System.IO.FileSystem.dll
+D:\Dotnet Practice\Project2\Project2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Dotnet Practice\Project2\Project2\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Dotnet Practice\Project2\Project2\bin\roslyn\System.IO.Pipes.dll
+D:\Dotnet Practice\Project2\Project2\bin\roslyn\System.Reflection.Metadata.dll
+D:\Dotnet Practice\Project2\Project2\bin\roslyn\System.Security.AccessControl.dll
+D:\Dotnet Practice\Project2\Project2\bin\roslyn\System.Security.Claims.dll
+D:\Dotnet Practice\Project2\Project2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Dotnet Practice\Project2\Project2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Dotnet Practice\Project2\Project2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Dotnet Practice\Project2\Project2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Dotnet Practice\Project2\Project2\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Dotnet Practice\Project2\Project2\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Dotnet Practice\Project2\Project2\bin\roslyn\System.ValueTuple.dll
+D:\Dotnet Practice\Project2\Project2\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Dotnet Practice\Project2\Project2\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Dotnet Practice\Project2\Project2\bin\roslyn\System.Xml.XPath.dll
+D:\Dotnet Practice\Project2\Project2\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Dotnet Practice\Project2\Project2\bin\roslyn\vbc.exe
+D:\Dotnet Practice\Project2\Project2\bin\roslyn\vbc.exe.config
+D:\Dotnet Practice\Project2\Project2\bin\roslyn\vbc.rsp
+D:\Dotnet Practice\Project2\Project2\bin\roslyn\VBCSCompiler.exe
+D:\Dotnet Practice\Project2\Project2\bin\roslyn\VBCSCompiler.exe.config
+D:\Dotnet Practice\Project2\Project2\bin\EntityFramework.dll
+D:\Dotnet Practice\Project2\Project2\bin\EntityFramework.SqlServer.dll
+D:\Dotnet Practice\Project2\Project2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Dotnet Practice\Project2\Project2\bin\Microsoft.Web.Infrastructure.dll
+D:\Dotnet Practice\Project2\Project2\bin\Project2MVC.BLL.dll
+D:\Dotnet Practice\Project2\Project2\bin\Project2MVC.DatabaseContext.dll
+D:\Dotnet Practice\Project2\Project2\bin\Project2MVC.Models.dll
+D:\Dotnet Practice\Project2\Project2\bin\System.Web.Helpers.dll
+D:\Dotnet Practice\Project2\Project2\bin\System.Web.Mvc.dll
+D:\Dotnet Practice\Project2\Project2\bin\System.Web.Razor.dll
+D:\Dotnet Practice\Project2\Project2\bin\System.Web.Webpages.Deployment.dll
+D:\Dotnet Practice\Project2\Project2\bin\System.Web.Webpages.dll
+D:\Dotnet Practice\Project2\Project2\bin\System.Web.Webpages.Razor.dll
+D:\Dotnet Practice\Project2\Project2\bin\Project2MVC.Repository.dll
+D:\Dotnet Practice\Project2\Project2\bin\Project2MVC.BLL.pdb
+D:\Dotnet Practice\Project2\Project2\bin\Project2MVC.DatabaseContext.pdb
+D:\Dotnet Practice\Project2\Project2\bin\Project2MVC.DatabaseContext.dll.config
+D:\Dotnet Practice\Project2\Project2\bin\Project2MVC.Models.pdb
+D:\Dotnet Practice\Project2\Project2\bin\EntityFramework.xml
+D:\Dotnet Practice\Project2\Project2\bin\EntityFramework.SqlServer.xml
+D:\Dotnet Practice\Project2\Project2\bin\System.Web.Razor.xml
+D:\Dotnet Practice\Project2\Project2\bin\System.Web.Webpages.xml
+D:\Dotnet Practice\Project2\Project2\bin\System.Web.Webpages.Deployment.xml
+D:\Dotnet Practice\Project2\Project2\bin\System.Web.Webpages.Razor.xml
+D:\Dotnet Practice\Project2\Project2\bin\System.Web.Helpers.xml
+D:\Dotnet Practice\Project2\Project2\bin\System.Web.Mvc.xml
+D:\Dotnet Practice\Project2\Project2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Dotnet Practice\Project2\Project2\bin\Project2MVC.Repository.pdb
+D:\Dotnet Practice\Project2\Project2\bin\Project2MVC.Repository.dll.config
+D:\Dotnet Practice\Project2\Project2\obj\Debug\Project2.csprojAssemblyReference.cache
+D:\Dotnet Practice\Project2\Project2\obj\Debug\Project2.csproj.CoreCompileInputs.cache
+D:\Dotnet Practice\Project2\Project2\obj\Debug\Project2.csproj.CopyComplete
+D:\Dotnet Practice\Project2\Project2\obj\Debug\Project2.dll
+D:\Dotnet Practice\Project2\Project2\obj\Debug\Project2.pdb

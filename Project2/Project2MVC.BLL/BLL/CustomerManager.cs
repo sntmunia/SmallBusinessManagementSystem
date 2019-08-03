@@ -23,10 +23,10 @@ namespace Project2MVC.BLL.BLL
         {
             return _customerRepository.Update(customer);
         }
-        //public List<Customer> GetAll()
-        //{
-        //    return _customerRepository.GetAll();
-        //}
+        public List<Customer> GetAll()
+        {
+            return _customerRepository.GetAll();
+        }
         public Customer GetByCode(Customer customer)
         {
             return _customerRepository.GetByCode(customer);
